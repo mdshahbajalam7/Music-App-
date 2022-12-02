@@ -2,7 +2,7 @@
 
 ## Build and Deploy a Better Spotify 2.0 Clone Music App with React 
 
-## Netlify Link = "https://musicappspotify.netlify.app/"
+## Netlify Link = "https://musicappspotify.netlify.app/,target="_blank""
 
 
 
